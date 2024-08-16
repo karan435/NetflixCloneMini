@@ -187,8 +187,8 @@ nav button {
 }
 
 .secimage img {
-    padding: 8px 0;
-    width: 30vw;
+    /* padding: 8px 0; */
+    width: 555px;
     position: relative;
     z-index: 10;
 
@@ -196,7 +196,7 @@ nav button {
 
 .secimage video {
     position: absolute;
-    width: 30vw;
+    width: 555px;
     top: 51px;
     right: 0;
 }
