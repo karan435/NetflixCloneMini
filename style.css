@@ -262,6 +262,13 @@ footer .question {
   .hero > :first-child(3) {
     font-size: 18px;
   }
+  .hero-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  flex-direction: column;
+}
 }
 
 @media screen and (max-width: 1300px) {
